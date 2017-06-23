@@ -29,6 +29,22 @@ elseif locale == "deDE" then
   --@localization(locale="deDE", format="lua_additive_table", table-name="La")@
 elseif locale == "koKR" then
   --@localization(locale="koKR", format="lua_additive_table", table-name="La")@
+  La["Daily Quests"] = "일일 퀘스트"
+  La["Weekly Quests"] = "주간 퀘스트"
+  La["Mythic Keystone"] = "쐐기돌"
+
+  La["EoA"] = "아즈"
+  La["DHT"] = "어숲"
+  La["BRH"] = "검까"
+  La["HoV"] = "용맹"
+  La["Nelt"] = "넬타"
+  La["VotW"] = "감시관"
+  La["MoS"] = "아귀"
+  La["Arc"] = "비전로"
+  La["CoS"] = "별궁"
+  La["L Kara"] = "하층"
+  La["CoEN"] = "대성당"
+  La["U Kara"] = "상층"
 elseif locale == "esMX" then
   --@localization(locale="esMX", format="lua_additive_table", table-name="La")@
 elseif locale == "ruRU" then
